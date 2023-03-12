@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(244, 246, 248)
+}
+
+.total{
+    display: flex;
+}
+
+.columna1{
+    background-color: rgb(71, 166, 243);
+    margin: 0px 10px;
+    width: 25%;  
+    text-align: center;
+    padding: 25px;
+}
+
+.columna2{
+    margin: 0px 0px;
+    padding: 25px;
+    text-align:left;
+    width: 75%;
+}
